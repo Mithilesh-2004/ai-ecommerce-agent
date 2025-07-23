@@ -2,12 +2,14 @@
 
 A powerful AI-driven web application that allows users to query e-commerce data using natural language. The system converts natural language questions into SQL queries, executes them against a database, and provides beautiful visualizations of the results.
 
-<img width="2816" height="1536" alt="Gemini_Generated_Image_58fu3i58fu3i58fu" src="https://github.com/user-attachments/assets/1d0df92d-0342-4310-a07a-e45c4d4c37ef" />
+<img width="2816" height="1536" alt="Gemini_Generated_Image_58fu3i58fu3i58fu" src="https://github.com/user-attachments/assets/6e4a089a-a6c1-4602-9123-eedf23e85932" />
+
 
 
 > **📌 Tip**: Want to see it in action? Check out the live demo GIF below!
 
-![Demo Video](https://github.com/user-attachments/assets/d9e2d075-4362-43af-a998-a3a415bfacc5)
+![Third video - Made with Clipchamp](https://github.com/user-attachments/assets/39b4f1c7-8b24-42fb-952f-f211104af3bc)
+
 
 ---
 
@@ -32,7 +34,8 @@ A powerful AI-driven web application that allows users to query e-commerce data 
 * **Visualization**: Matplotlib/Seaborn for charts
 
 ### 🧠 System Architecture
-<img width="3840" height="2558" alt="Architecture_AI_Agent_Ecommerce" src="https://github.com/user-attachments/assets/fe2fdf7c-cc01-4868-95ef-c39b3f971b5f" />
+<img width="3840" height="2558" alt="Architecture_AI_Agent_Ecommerce" src="https://github.com/user-attachments/assets/4c5e6e30-4417-42bb-833f-a4267e1d2479" />
+
 
 ---
 
